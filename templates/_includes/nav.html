@@ -10,7 +10,7 @@
       <!-- Brand and toggle get grouped for better mobile display -->
       <div class="navbar-header">
         <a class="navbar-brand scrollTo" href="#home">
-          <img src="{{ HEADER_IMAGE }}" alt="" width="50" height="50" />
+          <img src="{{ HEADER_IMAGE }}" alt="" align="middle" width="50" height="50" />
           <span class="hidden-xs">{{ SITENAME|e }}</span>
         </a>
       </div>
@@ -32,10 +32,13 @@
             <li><a href="{{SITEURL}}/index.html#home">Home</a></li>
             <li><a href="{{SITEURL}}/index.html#about">About</a></li>
             {% if WORK_DESCRIPTION %}
-            <li><a href="{{SITEURL}}/index.html#work">Work</a></li>
+            <li><a href="{{SITEURL}}/index.html#work">PROJECTS</a></li>
             {% endif %}
             {% if articles %}
             <li><a href="{{SITEURL}}/blog.html">Blog</a></li>
+            {% endif %}
+            {% if INDEX_CN %}
+            <li><a href="{{SITEURL}}/index_cn.html">ZHONGWEN</a></li>
             {% endif %}
           {% endif %}
           {% if LINKS %}

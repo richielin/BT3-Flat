@@ -1,5 +1,14 @@
 BT3-Flat
 =======
+This is a clone of [Mr.Lai](https://github.com/KenMercusLai/BT3-Flat)'s BT3-Flat pelican theme for my personal website.
+
+Some changes have been made to fit with the idea with my website.
+
+[My website](http://taolinrichie.com)
+
+Thank you!
+
+======
 
 ~~**For some reasons, I won't update this theme for a long time except for bug fix. And I'll try to rewrite it in AngularJS in next commit**~~
 
@@ -142,3 +151,4 @@ WORK_DESCRIPTION = ''
 # items to descripe a work, "type", "cover-image link", "title", "descption", "link"
 WORK_LIST = (('link', 'https://dl.dropboxusercontent.com/u/299446/BT3-Flat.png', 'BT3-Flat', 'A BT3 flat theme for pelican', 'https://github.com/KenMercusLai/plumage'),)
 ```
+# BT3-Flat-richie
