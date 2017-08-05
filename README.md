@@ -2,7 +2,7 @@ BT3-Flat
 =======
 This is a clone of [Mr.Lai](https://github.com/KenMercusLai/BT3-Flat)'s BT3-Flat pelican theme for my personal website.
   
-Some changes have been made to fit with the idea of my website.
+Some changes have been made to fit the idea of my website.
   
 [My website](http://taolinrichie.com)
   
@@ -11,7 +11,7 @@ Thank you!
   
   
   
-  
+Original Notes:
 ==========
 
 ~~**For some reasons, I won't update this theme for a long time except for bug fix. And I'll try to rewrite it in AngularJS in next commit**~~
