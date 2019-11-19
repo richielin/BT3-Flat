@@ -201,8 +201,8 @@ section.alternate.arrow-down {
 .image-caption {
   text-align:center;
   position: absolute;
-  left: 50%;
-  top: 50%;
+  left: 65%;
+  top: 60%;
   margin-top:-30px;
   /* header height/2 */
   display: inline-block;
@@ -228,6 +228,15 @@ section.alternate.arrow-down {
   font-size:600%;
   line-height:95%;
   text-transform:uppercase;
+  text-shadow:none;
+  color:#fff;
+  display:block;
+}
+#home .image-caption h3 {
+  font-weight:300;
+  letter-spacing: normal;
+  font-size:140%;
+  line-height:95%;
   text-shadow:none;
   color:#fff;
   display:block;
